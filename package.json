@@ -1,0 +1,22 @@
+{
+  "name": "@writetome51/validate-adjacent-items-operation-args",
+  "version": "0.0.1",
+  "description": "Function validates arguments used in performing operation on adjacent items in array",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/validate-adjacent-items-operation-args.git"
+  },
+  "keywords": [],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/validate-adjacent-items-operation-args/issues"
+  },
+  "homepage": "https://github.com/writetome51/validate-adjacent-items-operation-args#readme",
+  "dependencies": {
+    "error-if-array-too-short-to-meet-adjacent-items-request": "^2.0.0",
+    "error-if-index-how-many-or-array-are-not-valid": "^2.0.0"
+  }
+}
